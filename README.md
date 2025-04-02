@@ -37,7 +37,7 @@
 ### 🔗 **Where to Find Me?**
 
 👨‍💻 **LinkedIn:** [linkedin.com/in/badal-mehra](https://linkedin.com/in/badal-mehra)  
-🐦 **Twitter:** [@badal_mehra](https://twitter.com/badal_mehra)  
+🐦 **Twitter:** [@badalmehraX](https://twitter.com/badalmehraX)  
 🌐 **Portfolio:** Avilable soon !
 
 
