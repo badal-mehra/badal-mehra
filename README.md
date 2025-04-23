@@ -1,4 +1,4 @@
-### 🔥 Badal Mehra - AI-Driven Cybersecurity Specialist 🛡️🤖  
+### 🔥 Badal Mehra - AI-Driven Cybersecurity Specialist 🛡️🤖   
 
 <img src="https://github.com/badal-mehra.png" width="200" align="right" />
 
