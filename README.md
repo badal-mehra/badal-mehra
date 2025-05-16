@@ -13,7 +13,7 @@
 🔹 **Offensive Security:** Red Teaming, Web App Pentesting, Exploit Development  
 🔹 **Cloud Security:** AWS, Azure, GCP, Kubernetes Security  
 🔹 **Programming:** Python 🐍 | Bash 🖥️ | JavaScript ⚡ | TensorFlow 🤖  
-🔹 **Certifications (Planned & Completed):** OSCP | CRTO | CEH | CISSP | CISM | AWS Security Specialty  
+🔹 **Certifications (Planned & Completed):** IBM CYBERSECURTY FUNDAMNTALS | 
 🔹 **Security Tools:** Metasploit | Burp Suite | Wireshark | BloodHound | SIEM Solutions | AI Security Frameworks  
 
 ---
