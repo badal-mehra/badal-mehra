@@ -38,7 +38,7 @@
 
 👨‍💻 **LinkedIn:** [@badal-mehra](https://linkedin.com/in/badal-mehra)  
 🐦 **Twitter:** [@badalmehraX](https://twitter.com/badalmehraX)  
-🌐 **Portfolio:** Avilable soon !
+🌐 **Portfolio:** Avilable soon !\n
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=badal-mehra)
 
 💡 *Merging AI & Cybersecurity to create the future of digital defense!* 🔥
