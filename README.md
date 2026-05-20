@@ -31,6 +31,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badal-mehra&theme=radical)  
 ![Badal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badal-mehra&show_icons=true&theme=radical)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=badal-mehra)
 
 ---
 
@@ -38,7 +39,6 @@
 
 👨‍💻 **LinkedIn:** [@badal-mehra](https://linkedin.com/in/badal-mehra)  
 🐦 **Twitter:** [@badalmehraX](https://twitter.com/badalmehraX)  
-🌐 **Portfolio:** Avilable soon !\n
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=badal-mehra)
+🌐 **Portfolio:** Avilable soon !
 
 💡 *Merging AI & Cybersecurity to create the future of digital defense!* 🔥
