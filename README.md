@@ -2,7 +2,7 @@
 
 <img src="https://github.com/badal-mehra.png" width="200" align="right" /> 
 
-👾 Ethical Hacker | 🚀 Red Teamer | 🌐 AI & Cloud Security | 🏆 Bug Bounty Hunter   
+👾 Ethical Hacker | 🚀 Red Teamer | 🌐 AI & Cloud Security | 🏆 Bug Bounty Hunter    
 🔍 Researching AI-powered Threat Detection & Autonomous Pentesting
   
 --- 
