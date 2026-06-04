@@ -14,7 +14,7 @@
 ### 🔗 **Where to Find Me?**
 
 👨‍💻 **LinkedIn:** [@badal-mehra](https://www.linkedin.com/in/badal-mehra-468526224/)
-🐦 **Twitter:** [@badalmehraX](https://twitt er.co m/bad almehraX)  
+🐦 **Twitter:**  
 🌐 **Portfolio:** Avilable soon !
 
 💡 *Merging AI & Cybersecurity to create the future of digital defense!* 🔥
