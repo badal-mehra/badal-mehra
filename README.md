@@ -2,7 +2,7 @@
 
 ---
  
-### 📊 **GitHub Warfare**
+### 📊 **GitHub Warfare** 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badal-mehra&theme=radical)  
 ![Badal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badal-mehra&show_icons=true&theme=radical)
