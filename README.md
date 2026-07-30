@@ -81,17 +81,9 @@ Building real-world products with AI, Full Stack Development, and Cloud Technolo
 
 <p align="left">
 
-<a href="www.linkedin.com/in/badal-mehra/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/badal-mehra">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:badalmehra142@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/badal-mehra/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/badal-mehra)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:badalmehra142@gmail.com)
 
 </p>
 
