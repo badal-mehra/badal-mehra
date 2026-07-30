@@ -1,112 +1,46 @@
- <h1 align="center">Hi 👋, I'm Badal Mehra</h1>
-
-<h3 align="center">
-Software Engineer • AI Builder • Cybersecurity Enthusiast
-</h3>
+<h1 align="center">Badal Mehra</h1>
 
 <p align="center">
-Building real-world products with AI, Full Stack Development, and Cloud Technologies.
+Software Engineer • AI Engineering • Backend Development
 </p>
 
 ---
 
-## 🚀 About Me
+Building reliable software, AI-powered applications, and developer tools.
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Passionate about Software Engineering & AI
-- 🌱 Currently learning **Data Structures & Algorithms, System Design, and Backend Development**
-- 🛠 Building scalable web applications
-- 🔐 Google Certified Cybersecurity Professional
-- ⚡ I love turning ideas into products
+Currently interested in distributed systems, system design, backend engineering, and modern web technologies.
 
----
+## Technologies
 
-## 🛠 Tech Stack
+**Languages**
 
-### Languages
+C++, Python, JavaScript, TypeScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css" />
-</p>
+**Frontend**
 
-### Frameworks & Libraries
+React, Next.js, HTML, CSS, Tailwind CSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
+**Backend**
 
-### Database
+Node.js, Express.js, REST APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb" />
-</p>
+**Databases**
 
-### Cloud & Tools
+PostgreSQL, Supabase, MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,firebase,linux,bash" />
-</p>
+**Tools**
 
----
+Git, GitHub, Linux, Docker, Postman, Vercel
 
-# 📊 GitHub Stats
+## Currently
 
-<p align="center">
+- Building production-ready software
+- Learning distributed systems and system design
+- Solving data structures and algorithms
+- Exploring AI engineering
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+## Connect
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 Achievements
-
-- Google Cybersecurity Professional Certificate
-- IBM Cybersecurity Fundamentals
-- Advanced Cybersecurity Certification
-- NSS/NCC Activities
-- Speaker on Cybersecurity Awareness Programs
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/badal-mehra/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/badal-mehra)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:badalmehra142@gmail.com)
-
-</p>
-
----
-
-<p align="center">
-
-<i>
-"Code is not just about solving problems.
-It's about building products people love to use."
-</i>
-
-</p>
-
----
- 
-### 📊 **GitHub Warfare** 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badal-mehra&theme=radical)  
-![Badal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badal-mehra&show_icons=true&theme=radical)
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=badal-mehra)
-
----
-
-💡 *Merging AI & Cybersecurity to create the future of digital defense!* 🔥
+- LinkedIn — https://linkedin.com/in/YOUR_USERNAME
+- Portfolio — https://YOUR_DOMAIN
+- Email — your@email.com
