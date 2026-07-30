@@ -81,15 +81,15 @@ Building real-world products with AI, Full Stack Development, and Cloud Technolo
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/badal-mehra/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/badal-mehra">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:badalmehra142@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -116,11 +116,5 @@ It's about building products people love to use."
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=badal-mehra)
 
 ---
-
-### 🔗 **Where to Find Me?**
-
-👨‍💻 **LinkedIn:** [@badal-mehra](https://www.linkedin.com/in/badal-mehra/)
-🐦 **Twitter:**  
-🌐 **Portfolio:** Avilable soon !
 
 💡 *Merging AI & Cybersecurity to create the future of digital defense!* 🔥
