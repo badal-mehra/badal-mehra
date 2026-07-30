@@ -14,23 +14,23 @@ Currently interested in distributed systems, system design, backend engineering,
 
 **Languages**
 
-C++, Python, JavaScript, TypeScript
+C, C++, Python, JavaScript
 
 **Frontend**
 
-React, Next.js, HTML, CSS, Tailwind CSS
+React, HTML, CSS
 
 **Backend**
 
-Node.js, Express.js, REST APIs
+Node.js, REST APIs
 
 **Databases**
 
-PostgreSQL, Supabase, MongoDB
+PostgreSQL, Supabase
 
 **Tools**
 
-Git, GitHub, Linux, Docker, Postman, Vercel
+Git, GitHub, Linux, Postman, Vercel
 
 ## Currently
 
@@ -41,6 +41,6 @@ Git, GitHub, Linux, Docker, Postman, Vercel
 
 ## Connect
 
-- LinkedIn — https://linkedin.com/in/YOUR_USERNAME
-- Portfolio — https://YOUR_DOMAIN
-- Email — your@email.com
+- LinkedIn — https://linkedin.com/in/badal-mehra
+- Portfolio — SooN!
+- Email — badalmehra142@gmail.com
